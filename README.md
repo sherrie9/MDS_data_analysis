@@ -1,5 +1,5 @@
 # MDS_data_analysis
-This repo showcases my work on a group project analyzing MDS data. Other group members' work are not shown here.
+This repo showcases my work on a group project analyzing MDS data.
 
 # Introduction
 Myelodysplastic syndromes (MDS) are a heterogeneous group of hematopoietic stem cell (HSC) disorders characterized by defective haematopoiesis and cytopenia, associated with an increased risk of transformation to acute myeloid leukemia (AML). Various classification schemes exist to divide MDS patients into low-risk MDS and high-risk MDS for predicting the risk of transformation to AML, based on the percentage of blasts in the bone marrow or blood, karyotype, and number of cytopenia present [1, 2]. However, even low-risk MDS is associated with significant morbidity and mortality, with the median survival for low-risk MDS patients ranging from 5.3 to 8.8 years [3]. The median survival for high-risk MDS patients ranges from 0.8 to 1.6 years [3]. Thus, understanding molecular mechanisms involved specifically in low-risk MDS and high-risk MDS is urgent for development of better treatments for low-risk and high-risk MDS patients, respectively.
